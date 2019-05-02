@@ -15,7 +15,7 @@ var myHeading = document.querySelector('h1');
 function setUserName() {
     var myName = prompt('Qual seu nome?');
     localStorage.setItem('name', myName);
-    myHeading.innerHTML = 'Bem-Vindoa, ' + myName;
+    myHeading.innerHTML = 'Bem-Vindos, ' + myName;
   }
   if(!localStorage.getItem('name') || localStorage.getItem('name')==='null') {
     setUserName();
