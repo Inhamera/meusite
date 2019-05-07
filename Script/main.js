@@ -22,6 +22,7 @@ function setUserName() {
   } else {
     var storedName = localStorage.getItem('name');
     myHeading.innerHTML = 'Bem-Vindo, ' + storedName;
+    ga('set', 'dimension1', myName);
   }
   myButton.onclick = function() {
     setUserName();
