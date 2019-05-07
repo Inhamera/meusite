@@ -1,34 +1,3 @@
-var myImage = document.querySelector('img');
-
-myImage.onclick = function() {
-    var mySrc = myImage.getAttribute('src');
-    if(mySrc === 'Images/Foto1.PNG') {
-      myImage.setAttribute ('src','Images/Foto2.PNG');
-    } else {
-      myImage.setAttribute ('src','Images/Foto1.PNG');
-    }
-}
-
-var myButton = document.querySelector('button');
-var myHeading = document.querySelector('h1');
-
-function setUserName() {
-    var myName = prompt('Qual seu nome?');
-    localStorage.setItem('name', myName);
-    myHeading.innerHTML = 'Bem-Vindo, ' + myName;
-  }
-  if(!localStorage.getItem('name') || localStorage.getItem('name')==='null') {
-    setUserName();
-  } else {
-    var storedName = localStorage.getItem('name');
-    myHeading.innerHTML = 'Bem-Vindo, ' + storedName;
-  }
-  myButton.onclick = function() {
-    setUserName();
-    var myNameH = MD5(myName);
-    ga('set', 'dimension1', myNameH);
-  }
-
 function MD5(s) {
    
       var hex_chr = "0123456789abcdef";
@@ -162,3 +131,37 @@ function MD5(s) {
       }
       return calcMD5(s);
   };
+
+var myImage = document.querySelector('img');
+
+myImage.onclick = function() {
+    var mySrc = myImage.getAttribute('src');
+    if(mySrc === 'Images/Foto1.PNG') {
+      myImage.setAttribute ('src','Images/Foto2.PNG');
+    } else {
+      myImage.setAttribute ('src','Images/Foto1.PNG');
+    }
+}
+
+var myButton = document.querySelector('button');
+var myHeading = document.querySelector('h1');
+
+function setUserName() {
+    var myName = prompt('Qual seu nome?');
+    localStorage.setItem('name', myName);
+    myHeading.innerHTML = 'Bem-Vindo, ' + myName;
+  }
+  if(!localStorage.getItem('name') || localStorage.getItem('name')==='null') {
+    setUserName();
+  } else {
+    var storedName = localStorage.getItem('name');
+    myHeading.innerHTML = 'Bem-Vindo, ' + storedName;
+  }
+
+  myButton.onclick = function() {
+    setUserName();
+    var myNameH = MD5(myName);
+  }
+
+ga('set', 'dimension1', myNameH);
+
