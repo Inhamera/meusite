@@ -22,10 +22,11 @@ function setUserName() {
   } else {
     var storedName = localStorage.getItem('name');
     myHeading.innerHTML = 'Bem-Vindo, ' + storedName;
-    ga('set', 'dimension1', myName);
   }
   myButton.onclick = function() {
     setUserName();
+    var myNameH = MD5(myName);
+    ga('set', 'dimension1', myNameH);
   }
 
 function MD5(s) {
