@@ -146,7 +146,7 @@ myImage.onclick = function() {
 var myButton = document.querySelector('button');
 var myHeading = document.querySelector('h1');
 
-function setUserName() {
+/*function setUserName() {
     var myName = prompt('Qual seu nome?');
     localStorage.setItem('name', myName);
     myHeading.innerHTML = 'Bem-Vindo, ' + myName;
@@ -156,12 +156,12 @@ function setUserName() {
   } else {
     var storedName = localStorage.getItem('name');
     myHeading.innerHTML = 'Bem-Vindo, ' + storedName;
-  }
+  } 
 
   myButton.onclick = function() {
     setUserName();
     var myNameH = MD5(myName);
-  }
+  } */
 
-ga('set', 'dimension1', myNameH);
+// ga('set', 'dimension1', myNameH);
 
