@@ -136,7 +136,7 @@ var myImage = document.querySelector('img');
 
 myImage.onclick = function() {
     var mySrc = myImage.getAttribute('src');
-    if(mySrc === 'Images/Foto1.PNG') {
+    if(mySrc === 'Images/mocking.PNG') {
       myImage.setAttribute ('src','Images/inhame.jpeg');
     } else {
       myImage.setAttribute ('src','Images/mocking.PNG');
