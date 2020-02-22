@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Tibia Wiki</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="style.css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+        integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+</head>
+
+<body onload="loadBody()">
+
+    <form style="margin:auto;height: 500px;">
+        <div class="row">
+            <div class="col-7">
+                <h1 class="center">Imbuing System</h1>
+                <div class="row">
+                    <div class="col-5">
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <label class="input-group-text" for="inputGroupSelect01">Categoria</label>
+                            </div>
+                            <select class="custom-select" id="categoria_select" onchange="categoriaChange()">
+                                <option selected value="none"></option>
+                                <option value="armor">Armaduras/Armors</option>
+                                <option value="backpack">Mochila/Backpacks</option>
+                                <option value="boots">Botas/Boots</option>
+                                <option value="helmet">Capacetes/Helmets</option>
+                                <option value="club">Clavas/Clubs</option>
+                                <option value="distance">Distância/Distance</option>
+                                <option value="shield">Escudo/Shield</option>
+                                <option value="sword">Espada/Sword</option>
+                                <option value="axe">Machado/Axe</option>
+                                <option value="spellbook">Livro de Magia/SpellBooks</option>
+                                <option value="wandRod">Wands e Rods</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-5">
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <label class="input-group-text" for="inputGroupSelect01">Item</label>
+                            </div>
+                            <select class="custom-select" id="item_select" disabled onchange="changeItem()">
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div id="itemImg" class="image"></div>
+                    </div>
+                </div>
+                <h4 class="center">Opções para Imbuir/Imbue Options</h4>
+                <div style="text-align:center">
+                    <label class="radio-inline">
+                        <div class="radio-imbue">
+                            <input value="basic" type="radio" name="optradio" checked
+                                onchange="bonusRadioChange(this.value)">Basic
+                        </div>
+                    </label>
+                    <label class="radio-inline">
+                        <div class="radio-imbue">
+                            <input value="intricate" type="radio" name="optradio"
+                                onchange="bonusRadioChange(this.value)">Intricate <b>(Premium)</b>
+                        </div>
+
+                    </label>
+                    <label class="radio-inline">
+                        <div class="radio-imbue">
+                            <input value="powerful" type="radio" name="optradio"
+                                onchange="bonusRadioChange(this.value)">Powerful <b>(Premium)</b>
+                        </div>
+
+                    </label>
+                </div>
+                <h4 id="msgSelectBonus" class="center" style="visibility: hidden">Selecione um bônus/Select a Bonus</h4>
+
+                <div id="divBonus" class="container-bonus">
+
+                </div>
+                <h4 class="center">Detalhes/Details</h4>
+                <div id="divBonusDetails">
+                        <ul id="detailsList" class="list-group">
+                        </ul>
+                </div>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td id="tdItem1">
+                                <div id="item1" class="fig32"></div>
+                            </td>
+                            <td id="tdItem2">
+                                <div id="item2" class="fig32"></div>
+                            </td>
+                            <td id="tdItem3">
+                                <div id="item3" class="fig32"></div>
+                            </td>
+                            <td>
+                                <p class="protectionCharm" style="margin: 0" onclick="protectionClick()">Protection
+                                    Charm</p>
+                            </td>
+                            <td>
+                                <p style="margin: 0">Imbue price</p>
+                            </td>
+                            <td>
+                                <p style="margin: 0">Total</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div id="quant_item1" class="divMoneyOval">
+                                    0
+                                </div>
+                            </td>
+                            <td>
+                                <div id="quant_item2" class="divMoneyOval">
+                                    0
+                                </div>
+                            </td>
+                            <td>
+                                <div id="quant_item3" class="divMoneyOval">
+                                    0
+                                </div>
+                            </td>
+                            <td>
+                                <div id="protectMoney" class="divMoneyRect">
+                                </div>
+                            </td>
+                            <td>
+                                <div id="imbueMoney" class="divMoneyRect">
+                                </div>
+                            </td>
+                            <td>
+                                <div id="totalMoney" class="divMoneyRect">
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col">
+                <h1 class="center">Set Completo</h1>
+            </div>
+        </div>
+
+    </form>
+
+
+    <script src="index.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+        integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+        integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
