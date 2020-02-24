@@ -860,7 +860,7 @@ const item_imbuing = {
         "Elven Mail": {
             "slots": {
                 "actual": 0,
-                "max": 2
+                "max": 3
             },
             "image": "https://www.tibiawiki.com.br/images/0/01/Elven_Mail.gif",
             "bonus": bonus_group_armor,
@@ -1211,486 +1211,486 @@ const item_imbuing = {
     "boots": {
         "Badger Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/c/c5/Badger_Boots.gif",
             "value-option": "abadger_boots"
         },
         "Boots of Haste": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/1a/Boots_of_Haste.gif",
             "value-option": "boots_of_haste"
         },
         "Bunnyslippers": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/a/aa/Bunnyslippers.gif",
             "value-option": "bunnyslipers"
         },
         "Coconut Shoes": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/4f/Coconut_Shoes.gif",
             "value-option": "coconut_shoes"
         },
         "Crocodile Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/3/3e/Crocodile_Boots.gif",
             "value-option": "crocodile_boots"
         },
         "Crystal Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/b/bb/Crystal_Boots.gif",
             "value-option": "crystal_boots"
         },
         "Depth Calcei": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/e/e7/Depth_Calcei.gif",
             "value-option": "depth_calcei"
         },
         "Dragon Scale Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/e/e1/Dragon_Scale_Boots.gif",
             "value-option": "dragon_scale_boots"
         },
         "Draken Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/wiki/Arquivo:Draken_Boots.gif",
             "value-option": "draken_boots"
         },
         "Fur Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/3/34/Fur_Boots.gif",
             "value-option": "fur_boots"
         },
         "Glacier Shoes": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/f/f3/Glacier_Shoes.gif",
             "value-option": "glacier_shoes"
         },
         "Golden Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/d/d4/Golden_Boots.gif",
             "value-option": "golden_boots"
         },
         "Guardian Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/17/Guardian_Boots.gif",
             "value-option": "guardian_boots"
         },
         "Leather Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/9/94/Leather_Boots.gif",
             "value-option": "leather_boots"
         },
         "Lightning Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/46/Lightning_Boots.gif",
             "value-option": "lightning_boots"
         },
         "Magma Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/e/eb/Magma_Boots.gif",
             "value-option": "magma_boots"
         },
         "Metal Spats": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/8/85/Metal_Spats.gif",
             "value-option": "metal_spats"
         },
         "Oriental Shoes": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/0/0d/Oriental_Shoes.gif",
             "value-option": "oriental_shoes"
         },
         "Pair of Dreamwalkers": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/5/53/Pair_of_Dreamwalkers.gif",
             "value-option": "pair_of_dreamwalkers"
         },
         "Patched Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/0/04/Patched_Boots.gif",
             "value-option": "patched_boots"
         },
         "Pirate Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/5/54/Pirate_Boots.gif",
             "value-option": "pirate_boots"
         },
         "Prismatic Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/7/7f/Prismatic_Boots.gif",
             "value-option": "prismatic_boots"
         },
         "Sandals": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/a/af/Sandals.gif",
             "value-option": "sandals"
         },
         "Steel Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/d/d7/Steel_Boots.gif",
             "value-option": "steel_boots"
         },
         "Terra Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/a/af/Terra_Boots.gif",
             "value-option": "terra_boots"
         },
         "Treader of Torment": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/0/0c/Treader_of_Torment.gif",
             "value-option": "treader_of_torment"
         },
         "Vampire Silk Slippers": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/0/00/Vampire_Silk_Slippers.gif",
             "value-option": "vampire_silk_slippers"
         },
         "Zaoan Shoes": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
-            "image": "",
+            "image": "https://tibiawiki.com.br/images/a/ad/Zaoan_Shoes.gif",
             "value-option": "zaoan_shoes"
         },
     },
     "helmet": {
         "Amazon Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/b/bd/Amazon_Helmet.gif",
             "value-option": "amazon_helmet"
         },
         "Ancient Tiara": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/b/bb/Ancient_Tiara.gif",
             "value-option": "ancient_tiara"
         },
         "Batwing Hat": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/47/Batwing_Hat.gif",
             "value-option": "batwing_hat"
         },
         "Bonelord Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/b/b0/Bonelord_Helmet.gif",
             "value-option": "bonelord_helmet"
         },
         "Crown Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/c/cc/Crown_Helmet.gif",
             "value-option": "crown_helmet"
         },
         "Crusader Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/6/6a/Crusader_Helmet.gif",
             "value-option": "crusader_helmet"
         },
         "Dark Whispers": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/0/04/Dark_Whispers.gif",
             "value-option": "dark_whispers"
         },
         "Demon Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/4e/Demon_Helmet.gif",
             "value-option": "demon_helmet"
         },
         "Dwarven Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/b/b9/Dwarven_Helmet.gif",
             "value-option": "dwarven_helmet"
         },
         "Elite Draken Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/c/c6/Elite_Draken_Helmet.gif",
             "value-option": "elite_draken_helmet"
         },
         "Falcon Circlet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/6/65/Falcon_Circlet.gif",
             "value-option": "falcon_circlet"
         },
         "Falcon Coif": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/b/b9/Falcon_Coif.gif",
             "value-option": "falcon_coif"
         },
         "Fur Cap": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/13/Fur_Cap.gif",
             "value-option": "fur_cap"
         },
         "Gnome Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/9/97/Gnome_Helmet.gif",
             "value-option": "gnome_helmet"
         },
         "Golden Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/6/60/Golden_Helmet.gif",
             "value-option": "golden_helmet"
         },
         "Hat of the Mad": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/c/c7/Hat_of_the_Mad.gif",
             "value-option": "hat_of_the_mad"
         },
         "Helmet of Nature": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/6/65/Helmet_of_Nature.gif",
             "value-option": "helmet_of_nature"
         },
         "Helmet of The Lost": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/6/6f/Helmet_of_The_Lost.gif",
             "value-option": "helmet_of_the_lost"
         },
         "Helmet of Ultimate Terror": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/0/09/Helmet_of_Ultimate_Terror.gif",
             "value-option": "helmet_of_ultimate_terror"
         },
         "Jade Hat": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/5/52/Jade_Hat.gif",
             "value-option": "jade_hat"
         },
         "Mage Hat": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/d/d9/Mage_Hat.gif",
             "value-option": "mage_hat"
         },
         "Magician Hat": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/6/6a/Magician_Hat.gif",
             "value-option": "magician_hat"
         },
         "Odd Hat": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/wiki/Arquivo:Odd_Hat.gif",
             "value-option": "odd_hat"
         },
         "Royal Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/9/9e/Royal_Helmet.gif",
             "value-option": "royal_helmet"
         },
         "Shamanic Mask": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/40/Shamanic_Mask.gif",
             "value-option": "shamanic_mask"
         },
         "Skull Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/11/Skull_Helmet.gif",
             "value-option": "skull_helmet"
         },
         "Visage of the End Days": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/13/Visage_of_the_End_Days.gif",
             "value-option": "visage_of_the_end_days"
         },
         "Warrior Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/d/de/Warrior_Helmet.gif",
             "value-option": "warrior_helmet"
         },
         "Witch Hat": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/4b/Witch_Hat.gif",
             "value-option": "witch_hat"
         },
         "Yalahari Mask": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/f/f6/Yalahari_Mask.gif",
             "value-option": "yalahari_mask"
         },
         "Zaoan Helmet": {
             "bonus": bonus_group_helmet,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/2/2f/Zaoan_Helmet.gif",
             "value-option": "zaoan_helmet"
         },
     },
     "club": {
         "Abyss Hammer": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/8/87/Abyss_Hammer.gif",
             "value-option": "abyss_hammer"
         },
         "Amber Staff": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/7/77/Amber_Staff.gif",
             "value-option": "amber_staff"
         },
         "Arcane Staff": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/d/da/Arcane_Staff.gif",
             "value-option": "arcane_staff"
         },
         "Blessed Sceptre": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/a/a9/Blessed_Sceptre.gif",
             "value-option": "blessed_sceptre"
         },
         "Clerical Mace": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/9/93/Clerical_Mace.gif",
             "value-option": "clerical_mace"
         },
         "Deepling Squelcher": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/c/ca/Deepling_Squelcher.gif",
             "value-option": "deepling_squelcher"
         },
         "Demonbone": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/47/Demonbone.gif",
             "value-option": "demonbone"
         },
         "Dragonbone Staff": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/f/f0/Dragonbone_Staff.gif",
             "value-option": "dragonbone_staff"
         },
         "Falcon Mace": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/48/Falcon_Mace.gif",
             "value-option": "falcon_mace"
         },
         "Glooth Whip": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/1f/Glooth_Whip.gif",
             "value-option": "glooth_whip"
         },
         "Hammer of Wrath": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/13/Hammer_of_Wrath.gif",
             "value-option": "hammer_of_wrath"
         },
         "Heavy Mace": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/9/90/Heavy_Mace.gif",
             "value-option": "heavy_mace"
         },
         "Life Preserver": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/c/c8/Life_Preserver.gif",
             "value-option": "life_preserver"
         },
         "Lunar Staff": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/f/f6/Lunar_Staff.gif",
             "value-option": "lunar_staff"
         },
         "Mace of Destruction": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/b/bd/Mace_of_Destruction.gif",
             "value-option": "mace_of_destruction"
         },
         "Maimer": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/12/Maimer.gif",
             "value-option": "maimer"
         },
         "Mycological Mace": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/e/e6/Mycological_Mace.gif",
             "value-option": "mycological_mace"
         },
         "Obsidian Truncheon": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/8/86/Obsidian_Truncheon.gif",
             "value-option": "obsidian_truncheon"
         },
         "Onyx Flail": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/9/95/Onyx_Flail.gif",
             "value-option": "onyx_flail"
         },
         "Orcish Maul": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/d/dc/Orcish_Maul.gif",
             "value-option": "orcish_maul"
         },
         "Ornate Mace": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/f/f8/Ornate_Mace.gif",
             "value-option": "ornate_mace"
         },
         "Queen's Sceptre": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/5/5b/Queen%27s_Sceptre.gif",
             "value-option": "queens_sceptre"
         },
         "Resizer": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/6/6d/Resizer.gif",
             "value-option": "resizer"
         },
         "Sapphire Hammer": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/c/c2/Sapphire_Hammer.gif",
             "value-option": "sapphire_hammer"
         },
         "Shadow Sceptre": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/3/35/Shadow_Sceptre.gif",
             "value-option": "shadow_sceptre"
         },
         "Silver Mace": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/f/fc/Silver_Mace.gif",
             "value-option": "silver_mace"
         },
         "Skull Staff": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/5/54/Skull_Staff.gif",
             "value-option": "skull_staff"
         },
         "Skullcrusher": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/3/3d/Skullcrusher.gif",
             "value-option": "skullcrusher"
         },
         "Snake God's Sceptre": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/4d/Snake_God%27s_Sceptre.gif",
             "value-option": "snake_gods_sceptre"
         },
         "Spiked Squelcher": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/8/81/Spiked_Squelcher.gif",
             "value-option": "spiked_squelcher"
         },
         "The Stomper": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/a/a0/The_Stomper.gif",
             "value-option": "the_stomper"
         },
         "Thunder Hammer": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/e/e1/Thunder_Hammer.gif",
             "value-option": "thunder_hammer"
         },
         "Umbral Hammer": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/4a/Umbral_Hammer.gif",
             "value-option": "umbral_hammer"
         },
         "Umbral Mace": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/46/Umbral_Mace.gif",
             "value-option": "umbral_mace"
         },
         "Umbral Master Hammer": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/6/69/Umbral_Master_Hammer.gif",
             "value-option": "umbral_master_hammer"
         },
         "Umbral Master Mace": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/c/c1/Umbral_Master_Mace.gif",
             "value-option": "umbral_master_mace"
         },
         "War Hammer": {
             "bonus": bonus_group_weapon,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/2/25/War_Hammer.gif",
             "value-option": "war_hammer"
         },
     },
@@ -1699,252 +1699,720 @@ const item_imbuing = {
     "shield": {
         "Amazon Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/f/ff/Amazon_Shield.gif",
             "value-option": "amazon_shield"
         },
         "Bonelord Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/6/6a/Bonelord_Shield.gif",
             "value-option": "bonelord_shield"
         },
         "Carapace Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/5/54/Carapace_Shield.gif",
             "value-option": "carapace_shield"
         },
         "Castle Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/8/87/Castle_Shield.gif",
             "value-option": "castle_shield"
         },
         "Crown Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/41/Crown_Shield.gif",
             "value-option": "crown_shield"
         },
         "Death Gaze": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/2/2c/Death_Gaze.gif",
             "value-option": "death_gaze"
         },
         "Demon Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/4f/Demon_Shield.gif",
             "value-option": "demon_shield"
         },
         "Dragon Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/13/Dragon_Shield.gif",
             "value-option": "dragon_sheidl"
         },
         "Ectoplasmic Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/7/78/Ectoplasmic_Shield.gif",
             "value-option": "ectoplasmic_shield"
         },
         "Falcon Escutcheon": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/wiki/Arquivo:Falcon_Escutcheon.gif",
             "value-option": "falcon_escutcheon"
         },
         "Falcon Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/2/29/Falcon_Shield.gif",
             "value-option": "falcon_shield"
         },
         "Gnome Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/1c/Gnome_Shield.gif",
             "value-option": "gnome_shield"
         },
         "Great Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/43/Great_Shield.gif",
             "value-option": "great_shield"
         },
         "Griffin Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/f/fc/Griffin_Shield.gif",
             "value-option": "griffin_shield"
         },
         "Haunted Mirror Piece": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/6/6e/Haunted_Mirror_Piece.gif",
             "value-option": "haunted_mirror_piece"
         },
         "Mastermind Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/10/Mastermind_Shield.gif",
             "value-option": "mastermind_shield"
         },
         "Meat Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/5/5c/Meat_Shield.gif",
             "value-option": "meat_shield"
         },
         "Medusa Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/f/fe/Medusa_Shield.gif",
             "value-option": "medusa_shield"
         },
         "Necromancer Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/3/33/Necromancer_Shield.gif",
             "value-option": "necromancer_shield"
         },
         "Nightmare Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/d/d0/Nightmare_Shield.gif",
             "value-option": "nightmare_shield"
         },
         "Norse Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/f/f0/Norse_Shield.gif",
             "value-option": "norse_shield"
         },
         "Ornamented Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/f/fb/Ornamented_Shield.gif",
             "value-option": "ornamented_shield"
         },
         "Ornate Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/41/Ornate_Shield.gif",
             "value-option": "ornate_shield"
         },
         "Phoenix Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/e/ef/Phoenix_Shield.gif",
             "value-option": "phoenix_shield"
         },
         "Rift Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/12/Rift_Shield.gif",
             "value-option": "rift_shield"
         },
         "Runic Ice Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/7/72/Runic_Ice_Shield.gif",
             "value-option": "runic_ice_shield"
         },
         "Sentinel Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/2/22/Sentinel_Shield.gif",
             "value-option": "sentinel_shield"
         },
         "Shield of Care": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/4a/Shield_of_Care.gif",
             "value-option": "shield_of_care"
         },
         "Shield of Corruption": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/2/2b/Shield_of_Corruption.gif",
             "value-option": "shield_of_corruption"
         },
         "Shield of the White Knight": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/a/a5/Shield_of_the_White_Knight.gif",
             "value-option": "shield_of_the_white_knight"
         },
         "Steel Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/17/Steel_Shield.gif",
             "value-option": "steel_shield"
         },
         "Tempest Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/0/00/Tempest_Shield.gif",
             "value-option": "tempest_shield"
         },
         "Tower Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/4/4b/Tower_Shield.gif",
             "value-option": "tower_shield"
         },
         "Vampire Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/5/59/Vampire_Shield.gif",
             "value-option": "vampire_shield"
         },
         "Viking Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/1/1c/Viking_Shield.gif",
             "value-option": "viking_shield"
         },
         "Warrior's Shield": {
             "bonus": bonus_group_armor,
-            "image": "",
+            "image": "https://www.tibiawiki.com.br/images/5/51/Warrior%27s_Shield.gif",
             "value-option": "warriors_shield"
         },
     },
     "sword": {
         "Assassin Dagger": {
-            "value-option": "assassin_dagger"
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/7/76/Assassin_Dagger.gif",
+            "value-option": "assassin_dagger",
         },
         "Berserker": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/0/0a/Berserker.gif",
             "value-option": "berserker"
         },
         "Blacksteel Sword": {
-            "value-option": "Blade of Corruption"
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/6/63/Blacksteel_Sword.gif",
+            "value-option": "blacksteel_sword"
         },
         "Blade of Corruption": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/3/39/Blade_of_Corruption.gif",
             "value-option": "blade_of_corruption"
         },
         "Blade of Destruction": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/c/cb/Blade_of_Destruction.gif",
             "value-option": "blade_of_destruction"
         },
         "Bloody Edge": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/6/65/Bloody_Edge.gif",
             "value-option": "bloody_edge"
         },
         "Bright Sword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/18/Bright_Sword.gif",
             "value-option": "bright_sword"
         },
         "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/8/87/Broadsword.gif",
             "value-option": "broadsword"
         },
-        "Warrior's Shield": {
-            "value-option": "warriors_shield"
+        "Crimson Sword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/c/cb/Crimson_Sword.gif",
+            "value-option": "crimson_sword"
+        },
+        "Demonrage Sword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/5/55/Demonrage_Sword.gif",
+            "value-option": "demonrage_sword"
+        },
+        "Djin Blade": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/d/d9/Djinn_Blade.gif",
+            "value-option": "djin_blade"
+        },
+        "Dragon Slayer": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/a/a1/Dragon_Slayer.gif",
+            "value-option": "dragon_slayer"
+        },
+        "Emerald Sword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/0/0d/Emerald_Sword.gif",
+            "value-option": "emerald_sword"
+        },
+        "Epee": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/d/d1/Epee.gif",
+            "value-option": "epee"
+        },
+        "Falcon Longsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/4/42/Falcon_Longsword.gif",
+            "value-option": "falcon_longsword"
+        },
+        "Giant Sword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/1b/Giant_Sword.gif",
+            "value-option": "giant_sword"
+        },
+        "Gnome Sword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/4/4d/Gnome_Sword.gif",
+            "value-option": "gnome_sword"
+        },
+        "Haunted Blade": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/f4/Haunted_Blade.gif",
+            "value-option": "haunted_blade"
+        },
+        "Havoc Blade": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/e/e8/Havoc_Blade.gif",
+            "value-option": "havoc_blade"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/fd/Magic_Sword.gif",
+            "value-option": "broadsword"
+        },
+        "Assassin Dagger": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/ff/Mystic_Blade.gif",
+            "value-option": "assassin_dagger",
+        },
+        "Berserker": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/1a/Nightmare_Blade.gif",
+            "value-option": "berserker"
+        },
+        "Blacksteel Sword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/d/d5/Relic_Sword.gif",
+            "value-option": "Blade of Corruption"
+        },
+        "Blade of Corruption": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/6/6f/Runed_Sword.gif",
+            "value-option": "blade_of_corruption"
+        },
+        "Blade of Destruction": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/f1/Shiny_Blade.gif",
+            "value-option": "blade_of_destruction"
+        },
+        "Bloody Edge": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/8/8e/Slayer_of_Destruction.gif",
+            "value-option": "bloody_edge"
+        },
+        "Bright Sword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/4/42/Spike_Sword.gif",
+            "value-option": "bright_sword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/7/78/Summerblade.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/1f/Sword.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/a/a0/Tagralt_Blade.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/6/6f/Thaian_Sword.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/c/c1/The_Avenger.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/b/ba/The_Epiphany.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/8/83/Twiceslicer.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/3/3e/Twin_Hooks.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/a/ae/Umbral_Blade.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/4/42/Umbral_Master_Slayer.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/7/7a/Umbral_Masterblade.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/1d/Umbral_Slayer.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/3/35/Winterblade.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/7/71/Wyvern_Fang.gif",
+            "value-option": "broadsword"
+        },
+        "Broadsword": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/6/63/Zaoan_Sword.gif",
+            "value-option": "broadsword"
         },
     },
     "axe": {
+        "Axe of Destruction": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/3/33/Axe_of_Destruction.gif",
+            "value-option": "axe_of_destruction"
+        },
+        "Barabarian Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/d/da/Barbarian_Axe.gif",
+            "value-option": "barbarian_axe"
+        },
+        "Beaastlayer_Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/fb/Beastslayer_Axe.gif",
+            "value-option": "beastslayer_axe"
+        },
+        "Butcher's Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/b/bc/Butcher%27s_Axe.gif",
+            "value-option": "butchers_axe"
+        },
+        "Chopper of Destruction": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/a/a2/Chopper_of_Destruction.gif",
+            "value-option": "chopper_of_destruction"
+        },
+        "Cobra Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/1c/Cobra_Axe.gif",
+            "value-option": "cobra_axe"
+        },
+        "Crystalline Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/e/e8/Crystalline_Axe.gif",
+            "value-option": "crystalline_axe"
+        },
+        "Demonwing Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/1e/Demonwing_Axe.gif",
+            "value-option": "demonwing_axe"
+        },
+        "Dragon Lance": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/2/2c/Dragon_Lance.gif",
+            "value-option": "dragon_lance"
+        },
+        "Drakinata": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/9/9d/Drakinata.gif",
+            "value-option": "drakinata"
+        },
+        "Dreaded Cleaver": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/8/8e/Dreaded_Cleaver.gif",
+            "value-option": "dreaded_cleaver"
+        },
+        "Dwarven Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/5/5e/Dwarven_Axe.gif",
+            "value-option": "dwarven_axe"
+        },"Executioner": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/c/cb/Executioner.gif",
+            "value-option": "executioner"
+        },
+        "Falcon_Battleaxe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/16/Falcon_Battleaxe.gif",
+            "value-option": "falcon_battleaxe"
+        },
+        "Great Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/b/b8/Great_Axe.gif",
+            "value-option": "great_axe"
+        },
+        "Guardian Halberd": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/7/72/Guardian_Halberd.gif",
+            "value-option": "guardian_halberd"
+        },
+        "Headchopper": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/5/52/Headchopper.gif",
+            "value-option": "headchopper"
+        },
+        "Hellforged Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/1e/Hellforged_Axe.gif",
+            "value-option": "hellforged_axe"
+        },
+        "Heroic Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/0/03/Heroic_Axe.gif",
+            "value-option": "heroic_axe"
+        },
+        "Hive Scythe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/d/d4/Hive_Scythe.gif",
+            "value-option": "hive_scythe"
+        },
+        "Impaler": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/f8/Impaler.gif",
+            "value-option": "impaler"
+        },
+        "Knight Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/4/4e/Knight_Axe.gif",
+            "value-option": "knight_axe"
+        },
+        "Mythril Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/12/Mythril_Axe.gif",
+            "value-option": "mythril_axe"
+        },
+        "Noble Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/17/Noble_Axe.gif",
+            "value-option": "noble_axe"
+        },
+        "Ravarger's Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/fe/Ravager%27s_Axe.gif",
+            "value-option": "ravagers_axe"
+        },
+        "Rift Lance": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/0/03/Rift_Lance.gif",
+            "value-option": "rift_lance"
+        },
+        "Royal Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/4/4d/Royal_Axe.gif",
+            "value-option": "royal_axe"
+        },
+        "Ruthless Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/c/c2/Ruthless_Axe.gif",
+            "value-option": "ruthless_axe"
+        },
+        "Solar Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/a/af/Solar_Axe.gif",
+            "value-option": "solar_axe"
+        },
+        "Stonecutter Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/c/c4/Stonecutter_Axe.gif",
+            "value-option": "stonecutter_axe"
+        },
+        "Twin Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/a/a8/Twin_Axe.gif",
+            "value-option": "twin_axe"
+        },
+        "Umbral Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/b/b0/Umbral_Axe.gif",
+            "value-option": "umbral_axe"
+        },
+        "Umbral Chopper": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/2/27/Umbral_Chopper.gif",
+            "value-option": "umbral_chopper"
+        },
+        "Umbral Master Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/ff/Umbral_Master_Axe.gif",
+            "value-option": "umbral_master_axe"
+        },
+        "Umbral Master Chopper": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/9/9a/Umbral_Master_Chopper.gif",
+            "value-option": "umbral_master_chopper"
+        },
+        "War Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/7/7a/War_Axe.gif",
+            "value-option": "war_axe"
+        },
+        "Warrior's Axe": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/d/d2/Warrior%27s_Axe.gif",
+            "value-option": "warriors_axe"
+        },
+        "Zaoan Halberd": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/a/a8/Zaoan_Halberd.gif",
+            "value-option": "zaoan_halberd"
+        },
     },
     "spellbook": {
         "Book of Lies": {
+            "image": "https://www.tibiawiki.com.br/images/0/00/Book_of_Lies.gif",
             "value-option": "book_of_lies"
         },
         "Brain in a Jar": {
+            "image": "https://www.tibiawiki.com.br/images/7/75/Brain_In_a_Jar.gif",
             "value-option": "brain_in_a_jar"
         },
         "Depth Scutum": {
+            "image": "https://www.tibiawiki.com.br/images/f/f4/Depth_Scutum.gif",
             "value-option": "depth_scutum"
         },
         "Shoulder Plate": {
+            "image": "https://www.tibiawiki.com.br/images/3/32/Shoulder_Plate.gif",
             "value-option": "shoulder_plate"
         },
         "Spellbook": {
+            "image": "https://www.tibiawiki.com.br/images/7/7e/Spellbook.gif",
             "value-option": "spellbook"
         },
         "Spellbook of Enlightment": {
+            "image": "https://www.tibiawiki.com.br/images/f/f3/Spellbook_of_Enlightenment.gif",
             "value-option": "spellbook_of_enlightment"
         },
         "Spellbook of Warding": {
+            "image": "https://www.tibiawiki.com.br/images/d/df/Spellbook_of_Warding.gif",
             "value-option": "spellbook_of_warding"
         },
         "Spirit Guide": {
+            "image": "https://www.tibiawiki.com.br/images/4/42/Spirit_Guide.gif",
             "value-option": "spirit_guide"
         },
         "Umbral Master Spellbook": {
+            "image": "https://www.tibiawiki.com.br/images/9/9c/Umbral_Master_Spellbook.gif",
             "value-option": "umbral_master_spellbook"
         },
         "Umbral Spellbook": {
+            "image": "https://www.tibiawiki.com.br/wiki/Umbral_Spellbook",
             "value-option": "umbral_spellbook"
         },
         "Wooden Spellbook": {
+            "image": "https://www.tibiawiki.com.br/images/0/07/Wooden_Spellbook.gif",
             "value-option": "wooden_spellbook"
         },
     },
     "wandRod": {
+        "Cobra Rod": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/4/46/Cobra_Rod.gif",
+            "value-option": "cobra_rod"
+        },
+        "Cobra Wand": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/f/fa/Cobra_Wand.gif",
+            "value-option": "cobra_wand"
+        },
+        "Deepling Ceremonial Dagger": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/1/1b/Deepling_Ceremonial_Dagger.gif",
+            "value-option": "deepling_ceremonial_dagger"
+        },
+        "Deepling Fork": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/9/9d/Deepling_Fork.gif",
+            "value-option": "deepling_fork"
+        },
+        "Dream Blossom Staff": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/6/61/Dream_Blossom_Staff.gif",
+            "value-option": "dream_blossom_staff"
+        },
+        "Energized Limb": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/a/a7/Energized_Limb.gif",
+            "value-option": ""
+        },
+        "Falcon Rod": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/6/61/Falcon_Rod.gif",
+            "value-option": "falcon_rod"
+        },
+        "Falcon Wand": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/1/17/Falcon_Wand.gif",
+            "value-option": "falcon_wand"
+        },
+        "Northwind Rod": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/6/6f/Northwind_Rod.gif",
+            "value-option": "northwind_rod"
+        },
+        "Ogre Scepta": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/b/b4/Ogre_Scepta.gif",
+            "value-option": "ogre_scepta"
+        },
+        "Rod of Destruction": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/4/4e/Rod_of_Destruction.gif",
+            "value-option": "rod_of_destruction"
+        },
+        "Underworld Rod": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/c/cc/Underworld_Rod.gif",
+            "value-option": "underworld_rod"
+        },
+        "Wand of Destruction": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/7/78/Wand_of_Destruction.gif",
+            "value-option": "wand_of_destruction"
+        },
+        "Wand of Draconia": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/d/d9/Wand_of_Draconia.gif",
+            "value-option": "wand_of_draconia"
+        },
+        "Wand of Dragonbreath": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/a/a2/Wand_of_Dragonbreath.gif",
+            "value-option": "wand_of_dragonbreath"
+        },
+        "Wand of Starstorm": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/8/8e/Wand_of_Starstorm.gif",
+            "value-option": "wand_of_starstorm"
+        },
+        "Wand of Voodoo": {
+            "bonus": "",
+            "image": "https://www.tibiawiki.com.br/images/f/f6/Wand_of_Voodoo.gif",
+            "value-option": "wand_of_voodoo"
+        }
     }
 }
 
