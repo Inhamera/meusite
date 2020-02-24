@@ -774,7 +774,25 @@ const item_imbuing = {
             "value-option": "amazon_armor",
             "image": "https://www.tibiawiki.com.br/wiki/Especial:Redirecionar/file/Amazon_Armor.gif",
             "bonus": bonus_group_armor,
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
+	"Bear Skin": {
+            "slots": {
+                "actual": 0,
+                "max": 1
+            },
+            "value-option": "bear_skin",
+            "image": "https://www.tibiawiki.com.br/images/f/fc/Bear_Skin.gif",
+            "bonus": bonus_group_armor,
+            "details": [
+                { "armor": "?" },
+                { "peso": "?? oz" }
+            ]
+        },
+
         "Blue Robe": {
             "slots": {
                 "actual": 0,
@@ -783,6 +801,10 @@ const item_imbuing = {
             "value-option": "blue_robe",
             "image": "https://www.tibiawiki.com.br/images/8/8f/Blue_Robe.gif",
             "bonus": bonus_group_armor,
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Chain Armor": {
             "slots": {
@@ -792,15 +814,23 @@ const item_imbuing = {
             "value-option": "chain_armor",
             "image": "https://www.tibiawiki.com.br/images/2/29/Chain_Armor.gif",
             "bonus": bonus_group_armor,
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Crown Armor": {
             "slots": {
                 "actual": 0,
-                "max": 2
+                "max": 1
             },
             "value-option": "crown_armor",
             "image": "https://www.tibiawiki.com.br/images/7/7c/Crown_Armor.gif",
             "bonus": bonus_group_armor,
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Demon Armor": {
             "slots": {
@@ -808,8 +838,12 @@ const item_imbuing = {
                 "max": 2
             },
             "value-option": "demon_armor",
+            "image": "https://www.tibiawiki.com.br/images/e/e0/Demon_Armor.gif",
             "bonus": bonus_group_armor,
-            "image": "https://www.tibiawiki.com.br/images/e/e0/Demon_Armor.gif"
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Depth Lorica": {
             "slots": {
@@ -818,26 +852,37 @@ const item_imbuing = {
             },
             "value-option": "depth_lorica",
             "image": "https://www.tibiawiki.com.br/images/2/29/Depth_Lorica.gif",
-            "bonus": bonus_group_armor
+            "bonus": bonus_group_armor,
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Dragon Scale Mail": {
             "slots": {
                 "actual": 0,
-                "max": 2
+                "max": 1
             },
             "value-option": "dragon_scale_mail",
             "image": "https://www.tibiawiki.com.br/images/1/16/Dragon_Scale_Mail.gif",
-            "bonus": bonus_group_armor
-
+            "bonus": bonus_group_armor,
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Dream Shroud": {
             "slots": {
                 "actual": 0,
-                "max": 2
+                "max": 1
             },
             "value-option": "dream_shroud",
             "image": "https://www.tibiawiki.com.br/images/a/ad/Dream_Shroud.gif",
-            "bonus": bonus_group_armor
+            "bonus": bonus_group_armor,
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Dwarven Armor": {
             "slots": {
@@ -846,7 +891,11 @@ const item_imbuing = {
             },
             "value-option": "dwarven_armor",
             "bonus": bonus_group_armor,
-            "image": "https://www.tibiawiki.com.br/images/2/2c/Dwarven_Armor.gif"
+            "image": "https://www.tibiawiki.com.br/images/2/2c/Dwarven_Armor.gif",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Elite Draken Mail": {
             "slots": {
@@ -855,7 +904,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/2/28/Elite_Draken_Mail.gif",
             "bonus": bonus_group_armor,
-            "value-option": "elite_draken_mail"
+            "value-option": "elite_draken_mail",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Elven Mail": {
             "slots": {
@@ -864,7 +917,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/0/01/Elven_Mail.gif",
             "bonus": bonus_group_armor,
-            "value-option": "elven_mail"
+            "value-option": "elven_mail",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Falcon Plate": {
             "slots": {
@@ -873,7 +930,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/d/dc/Falcon_Plate.gif",
             "bonus": bonus_group_armor,
-            "value-option": "falcon_plate"
+            "value-option": "falcon_plate",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Gnome Armor": {
             "slots": {
@@ -882,7 +943,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/a/a8/Gnome_Armor.gif",
             "bonus": bonus_group_armor,
-            "value-option": "gnome_armor"
+            "value-option": "gnome_armor",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Golden Amor": {
             "slots": {
@@ -891,7 +956,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/d/d0/Golden_Armor.gif",
             "bonus": bonus_group_armor,
-            "value-option": "golden_armor"
+            "value-option": "golden_armor",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Heat Core": {
             "slots": {
@@ -900,7 +969,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/f/f2/Heat_Core.gif",
             "bonus": bonus_group_armor,
-            "value-option": "heat_core"
+            "value-option": "heat_core",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Heavy Metal T-Shirt": {
             "slots": {
@@ -909,7 +982,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/b/b7/Heavy_Metal_T-Shirt.gif",
             "bonus": bonus_group_armor,
-            "value-option": "heavy_metal_t-shirt"
+            "value-option": "heavy_metal_t-shirt",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Knight Armor": {
             "slots": {
@@ -918,7 +995,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/8/8e/Knight_Armor.gif",
             "bonus": bonus_group_armor,
-            "value-option": "knight_armor"
+            "value-option": "knight_armor",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Leopard Armor": {
             "slots": {
@@ -927,7 +1008,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/9/98/Leopard_Armor.gif",
             "bonus": bonus_group_armor,
-            "value-option": "leopard_armor"
+            "value-option": "leopard_armor",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Living Armor": {
             "slots": {
@@ -936,7 +1021,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/c/c4/Living_Armor.gif",
             "bonus": bonus_group_armor,
-            "value-option": "living_armor"
+            "value-option": "living_armor",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Magic Plate Armor": {
             "slots": {
@@ -945,7 +1034,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/3/31/Magic_Plate_Armor.gif",
             "bonus": bonus_group_armor,
-            "value-option": "magic_plate_armor"
+            "value-option": "magic_plate_armor",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Mammoth Fur Cape": {
             "slots": {
@@ -954,16 +1047,24 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/4/4b/Mammoth_Fur_Cape.gif",
             "bonus": bonus_group_armor,
-            "value-option": "mammoth_fur_cape"
+            "value-option": "mammoth_fur_cape",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Master Archer's Armor": {
             "slots": {
                 "actual": 0,
-                "max": 2
+                "max": 1
             },
             "image": "https://www.tibiawiki.com.br/images/4/4e/Master_Archer%27s_Armor.gif",
             "bonus": bonus_group_armor,
-            "value-option": "master_archers_armor"
+            "value-option": "master_archers_armor",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Mooh'tah Plate": {
             "slots": {
@@ -972,7 +1073,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/2/23/Mooh%27tah_Plate.gif",
             "bonus": bonus_group_armor,
-            "value-option": "moohtah_plate"
+            "value-option": "moohtah_plate",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Noble Armor": {
             "slots": {
@@ -981,7 +1086,11 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/1/12/Noble_Armor.gif",
             "bonus": bonus_group_armor,
-            "value-option": "noble_armor"
+            "value-option": "noble_armor",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Ornate Chestplate": {
             "slots": {
@@ -990,254 +1099,446 @@ const item_imbuing = {
             },
             "image": "https://www.tibiawiki.com.br/images/d/de/Ornate_Chestplate.gif",
             "bonus": bonus_group_armor,
-            "value-option": "ornate_chestplate"
+            "value-option": "ornate_chestplate",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Paladin Armor": {
             "slots": {
                 "actual": 0,
-                "max": 2
+                "max": 1
             },
             "image": "https://www.tibiawiki.com.br/images/4/45/Paladin_Armor.gif",
             "bonus": bonus_group_armor,
-            "value-option": "paladin_armor"
+            "value-option": "paladin_armor",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Prismatic Armor": {
             "slots": {
                 "actual": 0,
-                "max": 2
+                "max": 1
             },
             "image": "https://www.tibiawiki.com.br/images/4/42/Prismatic_Armor.gif",
             "bonus": bonus_group_armor,
-            "value-option": "prismatic_armor"
+            "value-option": "prismatic_armor",
+            "details": [
+                { "armor": "?" },
+                { "peso": "? oz" }
+            ]
         },
     },
     "backpack": {
         "Anniversary Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/5/5d/Anniversary_Backpack.gif",
-            "value-option": "anniversary_bp"
+            "value-option": "anniversary_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/9/9a/Backpack.gif",
-            "value-option": "bp"
+            "value-option": "bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Red Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/7/79/Red_Backpack.gif",
-            "value-option": "red_bp"
+            "value-option": "red_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Purple Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/1/17/Purple_Backpack.gif",
-            "value-option": "purple_bp"
+            "value-option": "purple_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Backpack of Holding": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/4/47/Backpack_of_Holding.gif",
-            "value-option": "backpack_of_holding"
+            "value-option": "backpack_of_holding",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Beach Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/2/20/Beach_Backpack.gif",
-            "value-option": "beach_bp"
+            "value-option": "beach_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Birthday Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/9/94/Birthday_Backpack.gif",
-            "value-option": "birthday_bp"
+            "value-option": "birthday_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Blue Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/d/d7/Blue_Backpack.gif",
-            "value-option": "blue_bp"
+            "value-option": "blue_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Buggy Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/6/6d/Buggy_Backpack.gif",
-            "value-option": "buggy_bp"
+            "value-option": "buggy_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Book Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/5/56/Book_Backpack.gif",
-            "value-option": "buggy_bp"
+            "value-option": "buggy_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Brocade Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/d/d8/Brocade_Backpack.gif",
-            "value-option": "brocade_bp"
+            "value-option": "brocade_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Camouflage Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/6/63/Camouflage_Backpack.gif",
-            "value-option": "camouflage_bp"
+            "value-option": "camouflage_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Cake Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/4/4d/Cake_Backpack.gif",
-            "value-option": "cake_bp"
+            "value-option": "cake_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Crown Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/1/13/Crown_Backpack.gif",
-            "value-option": "crown_bp"
+            "value-option": "crown_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Crystal Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/f/f4/Crystal_Backpack.gif",
-            "value-option": "crystal_bp"
+            "value-option": "crystal_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Demon Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/6/66/Demon_Backpack.gif",
             "value-option": "demon_bp"
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Deepling Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/c/c1/Deepling_Backpack.gif",
-            "value-option": "deepling_bp"
+            "value-option": "deepling_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Dragon Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/f/f0/Dragon_Backpack.gif",
-            "value-option": "dragon_bp"
+            "value-option": "dragon_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Energetic Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/5/52/Energetic_Backpack.gif",
-            "value-option": "energetic_bp"
+            "value-option": "energetic_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Expedition Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/f/ff/Expedition_Backpack.gif",
-            "value-option": "expedition_bp"
+            "value-option": "expedition_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Feedbag": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/2/28/Feedbag.gif",
-            "value-option": "feedbag"
+            "value-option": "feedbag",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Festive Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/a/ad/Festive_Backpack.gif",
-            "value-option": "festive_bp"
+            "value-option": "festive_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Fur Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/c/cc/Fur_Backpack.gif",
-            "value-option": "fur_bp"
+            "value-option": "fur_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Glooth Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/a/a1/Glooth_Backpack.gif",
-            "value-option": "glooth_bp"
+            "value-option": "glooth_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Golden Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/1/1e/Golden_Backpack.gif",
-            "value-option": "golden_bp"
+            "value-option": "golden_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Green Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/c/c6/Green_Backpack.gif",
             "value-option": "green_bp"
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Grey Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/6/6d/Grey_Backpack.gif",
-            "value-option": "grey_bp"
+            "value-option": "grey_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Heart Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/c/c5/Heart_Backpack.gif",
-            "value-option": "heart_bp"
+            "value-option": "heart_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Jewelled Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/1/1f/Jewelled_Backpack.gif",
-            "value-option": "jewelled_bp"
+            "value-option": "jewelled_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Minotaur Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/b/b8/Minotaur_Backpack.gif",
-            "value-option": "minotaur_bp"
+            "value-option": "minotaur_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Moon Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/3/31/Moon_Backpack.gif",
-            "value-option": "moon_bp"
+            "value-option": "moon_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Mushroom Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/e/e3/Mushroom_Backpack.gif",
-            "value-option": "mushroom_bp"
+            "value-option": "mushroom_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Orange Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/5/53/Orange_Backpack.gif",
-            "value-option": "orange_bp"
+            "value-option": "orange_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Pannier Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/0/03/Pannier_Backpack.gif",
-            "value-option": "pannier_bp"
+            "value-option": "pannier_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Pillow Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/e/e6/Pillow_Backpack.gif",
-            "value-option": "pillow_bp"
+            "value-option": "pillow_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Pirate Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/d/db/Pirate_Backpack.gif",
-            "value-option": "pirate_bp"
+            "value-option": "pirate_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Santa Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/d/d9/Santa_Backpack.gif",
-            "value-option": "santa_bp"
+            "value-option": "santa_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Wolf Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/7/74/Wolf_Backpack.gif",
-            "value-option": "wolf_bp"
+            "value-option": "wolf_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Old and Used Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/e/e7/Old_and_Used_Backpack.gif",
-            "value-option": "old_and_used_bp"
+            "value-option": "old_and_used_bp",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
     },
     "boots": {
         "Badger Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
             "image": "https://www.tibiawiki.com.br/images/c/c5/Badger_Boots.gif",
-            "value-option": "abadger_boots"
+            "value-option": "abadger_boots",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Boots of Haste": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
             "image": "https://www.tibiawiki.com.br/images/1/1a/Boots_of_Haste.gif",
-            "value-option": "boots_of_haste"
+            "value-option": "boots_of_haste",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Bunnyslippers": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
             "image": "https://www.tibiawiki.com.br/images/a/aa/Bunnyslippers.gif",
-            "value-option": "bunnyslipers"
+            "value-option": "bunnyslipers",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Coconut Shoes": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
             "image": "https://www.tibiawiki.com.br/images/4/4f/Coconut_Shoes.gif",
-            "value-option": "coconut_shoes"
+            "value-option": "coconut_shoes",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Crocodile Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
             "image": "https://www.tibiawiki.com.br/images/3/3e/Crocodile_Boots.gif",
-            "value-option": "crocodile_boots"
+            "value-option": "crocodile_boots",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Crystal Boots": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
             "image": "https://www.tibiawiki.com.br/images/b/bb/Crystal_Boots.gif",
-            "value-option": "crystal_boots"
+            "value-option": "crystal_boots",
+            "details": [
+                { "slots": "?" },
+                { "peso": "? oz" }
+            ]
         },
         "Depth Calcei": {
             "bonus": [bonus_type.swiftness, bonus_type.vibrancy],
@@ -1695,6 +1996,146 @@ const item_imbuing = {
         },
     },
     "distance": {
+	"Bow of Cataclysm": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/1d/Bow_of_Cataclysm.gif",
+            "value-option": "bow_of_cataclysm"
+        },
+	"Bow of Destruction": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/0/01/Bow_of_Destruction.gif",
+            "value-option": "bow_of_destruction"
+        },
+	"Composite Hornbow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/9/9a/Composite_Hornbow.gif",
+            "value-option": "composite_hornbow"
+        },
+	"Elvish Bow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/2/20/Elvish_Bow.gif",
+            "value-option": "elvish_bow"
+        },
+	"Falcon Bow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/fc/Falcon_Bow.gif",
+            "value-option": "falcon_bow"
+        },
+	"Hive Bow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/d/d3/Hive_Bow.gif",
+            "value-option": "hive_bow"
+        },
+	"Icicle Bow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/0/0d/Icicle_Bow.gif",
+            "value-option": "icicle_bow"
+        },
+	"Living Vine Bow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/6/61/Living_Vine_Bow.gif",
+            "value-option": "living_vine_bow"
+        },
+	"Musician's Bow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/f6/Musician%27s_Bow.gif",
+            "value-option": "musicians_bow"
+        },
+	"Mycological Bow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/c/c6/Mycological_Bow.gif",
+            "value-option": "mycological_bow"
+        },
+	"Rift Bow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/7/7b/Rift_Bow.gif",
+            "value-option": "rift_bow"
+        },
+	"Silkweaver Bow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/5/5e/Silkweaver_Bow.gif",
+            "value-option": "silkweaver_bow"
+        },
+	"Umbral Bow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/1/1c/Umbral_Bow.gif",
+            "value-option": "umbral_bow"
+        },
+	"Umbral Master Bow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/f7/Umbral_Master_Bow.gif",
+            "value-option": "umbral_master_bow"
+        },
+	"Warsinger Bow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/f8/Warsinger_Bow.gif",
+            "value-option": "warsinger_bow"
+        },
+	"Chain Bolter": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/0/06/Chain_Bolter.gif",
+            "value-option": "chain_bolter"
+        },
+	"Cobra Crossbow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/6/6c/Cobra_Crossbow.gif",
+            "value-option": "cobra_crossbow"
+        },
+	"Crossbow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/5/51/Crossbow.gif",
+            "value-option": "crossbow"
+        },
+	"Crossbow of Destruction": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/3/39/Crossbow_of_Destruction.gif",
+            "value-option": "crossbow_of_destruction"
+        },
+	"Modified Crossbow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/4/4c/Modified_Crossbow.gif",
+            "value-option": "modified_crossbow"
+        },
+	"Rift Crossbow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/f/f6/Rift_Crossbow.gif",
+            "value-option": "rift_crossbow"
+        },
+	"Royal Crossbow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/8/8d/Royal_Crossbow.gif",
+            "value-option": "royal_crossbow"
+        },
+	"The Devileye": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/0/0b/The_Devileye.gif",
+            "value-option": "the_devileye"
+        },
+	"The Ironworker": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/d/d8/The_Ironworker.gif",
+            "value-option": "the_ironworker"
+        },
+	"Thorn Spitter": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/5/5f/Thorn_Spitter.gif",
+            "value-option": "thorn_spitter"
+        },
+	"Triple Bolt Crossbow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/3/3e/Triple_Bolt_Crossbow.gif",
+            "value-option": "triple_bolt_crossbow"
+        },
+	"Umbral Crossbow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/8/81/Umbral_Crossbow.gif",
+            "value-option": "umbral_crossbow"
+        },
+	"Umbral Master Crossbow": {
+            "bonus": bonus_group_weapon,
+            "image": "https://www.tibiawiki.com.br/images/8/81/Umbral_Master_Crossbow.gif",
+            "value-option": "umbral_master_crossbow"
+        },
     },
     "shield": {
         "Amazon Shield": {
