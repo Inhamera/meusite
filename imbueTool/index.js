@@ -1271,7 +1271,7 @@ const item_imbuing = {
         "Demon Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/6/66/Demon_Backpack.gif",
-            "value-option": "demon_bp"
+            "value-option": "demon_bp",
             "details": [
                 { "slots": "?" },
                 { "peso": "? oz" }
@@ -1361,7 +1361,7 @@ const item_imbuing = {
         "Green Backpack": {
             "bonus": [bonus_type.featherweight],
             "image": "https://www.tibiawiki.com.br/images/c/c6/Green_Backpack.gif",
-            "value-option": "green_bp"
+            "value-option": "green_bp",
             "details": [
                 { "slots": "?" },
                 { "peso": "? oz" }
